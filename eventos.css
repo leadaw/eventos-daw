@@ -1,0 +1,16 @@
+body {
+    background-color: #a339d4;
+}
+
+.card {
+    border: 2px solid red;
+    background-color: #a339d4;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+header h1 {
+    font-size: 3rem;
+}
